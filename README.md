@@ -4,6 +4,17 @@ Virtual piano bot
 virtual piano bot with Tempo Control
 This Python script simulates keyboard input based on a custom "song" text file, allowing you to automate typing or play rhythm-based patterns with configurable tempo, chords, and error simulation.
 
+## Dependencies
+
+This project requires the following Python packages:
+
+- pydirectinput
+- keyboard
+
+You can install them all at once using:
+pip install -r requirements.txt
+
+
 Features:
 
 Play single notes and chords (simultaneous keys)
