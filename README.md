@@ -15,7 +15,7 @@ You can install them all at once using:
 pip install -r requirements.txt
 
 
-#Features:
+# Features:
 
 Play single notes and chords (simultaneous keys)
 
@@ -29,7 +29,7 @@ Simulated human-like typing errors with nearby key mistakes
 
 Simple song format with pauses and chords support
 
-#Manual Song File Selection
+# Manual Song File Selection
 
 Instead of hardcoding the song file path, this script allows you to select your song text file interactively each time it runs:
 
